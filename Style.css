@@ -68,6 +68,7 @@ a img{
     margin-right: auto;
     width: 15%;
     height: auto;
+    flex-direction: column;
 }
 a img:hover {
     transform: scale(1.2);
