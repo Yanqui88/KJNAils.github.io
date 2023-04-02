@@ -146,7 +146,7 @@ h3 {
 }
 
 #nailart {
-    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("NailArt.png");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("NailArt.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -160,7 +160,7 @@ h3 {
 }
 
 #esculpidas {
-    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("Esculpidas.png");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("Esculpidas.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -174,7 +174,7 @@ h3 {
 }
 
 #softgel {
-    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("Kapping.png");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("Kapping.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -188,7 +188,7 @@ h3 {
 
 
 #sobremi{
-    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("sobremi.png");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("sobremi.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
