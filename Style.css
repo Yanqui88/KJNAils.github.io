@@ -57,7 +57,7 @@ hr {
     margin-left: auto;
     margin-right: auto;
     border-style: inset;
-    border-width: 1px;
+    border-width: 2px;
     width: 90%;
   }
 a img{
@@ -71,7 +71,7 @@ a img{
     flex-direction: column;
 }
 a img:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     transition: 0.3s;
 }
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 h3 {
-    font-family: "roboto";
+    font-family: "Alkatra";
     margin: 0;
     text-align: center;
     font-size: 2.5em;
@@ -174,7 +174,19 @@ h3 {
 }
 
 #softgel {
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("Kapping.png");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("SoftGel.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-height: 90em;
+    padding: 0; 
+    display: flex;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
+#tipsesc {
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("Tips.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -186,9 +198,68 @@ h3 {
     width: 100%;
 }
 
+ul{
+    font-family: "Alkatra";
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+#Lista1 {
+    margin: 0;
+    padding: 36px 0 36px 84px;
+    list-style: none;
+    background-image: url("Lista1.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 2.2em;
+    color: #fa93d3;
+}
+#Lista2 {
+    margin: 0;
+    padding: 36px 0 36px 84px;
+    list-style: none;
+    background-image: url("Lista2.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 2.4em;
+    color: black;
+}
+#Lista3 {
+    margin: 0;
+    padding: 36px 0 36px 84px;
+    list-style: none;
+    background-image: url("Lista3.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 2.5em;
+    color: #fa93d3; 
+}
+#Lista4 {
+    margin: 0;
+    padding: 36px 0 36px 84px;
+    list-style: none;
+    background-image: url("Lista4.webp");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 2.4em; 
+    color: black;
+}
+#Lista5 {
+    margin: 0;
+    padding: 36px 0px 36px 84px;
+    list-style: none;
+    background-image: url("Lista5.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 1.9em;
+    background-position-x: -0.4em;
+    color: #fa93d3;
+}
 
 #sobremi{
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("sobremi.png");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("SobreMi.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -201,21 +272,21 @@ h3 {
     margin-right: 0;
     width: 100%;
 }
+p {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 
-/*#semipermanentes:after, #esculpidas:after, #kapping:after, #nailart:after, #softgel:after {
-transform-origin: right bottom;
-transform: skew(3deg, 3deg);
-}*/
-
+}
 .content {
     text-align: center;
     padding-top: 4em;
     padding-bottom: 4em;
-    position:relative;
+    position:abs;
     display:flex;
-    font-weight: bold;
+    /*font-weight: bold;*/
     color: white;
-    font: "Roboto";
+    font-family: "Alkatra";
     font-size: 1.9em;
     flex-direction: column;
     justify-content: center;
