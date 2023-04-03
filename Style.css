@@ -215,7 +215,7 @@ ul{
     background-image: url("Lista1.png");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.2em;
+    background-size: 2.5em;
     color: #fa93d3;
 }
 
@@ -226,7 +226,7 @@ ul{
     background-image: url("Lista2.png");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.4em;
+    background-size: 2.6em;
     color: black;
 }
 #Lista3 {
@@ -236,7 +236,7 @@ ul{
     background-image: url("Lista3.png");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.5em;
+    background-size: 2.7em;
     color: #fa93d3; 
 }
 #Lista4 {
@@ -246,7 +246,7 @@ ul{
     background-image: url("Lista4.webp");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.4em; 
+    background-size: 2.6em; 
     color: black;
 }
 #Lista5 {
