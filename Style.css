@@ -44,7 +44,7 @@ body {
 h4 {
     font-family: "Roboto";
     color: #fff;
-    font-size: 1.7em;
+    font-size: 1.9em;
     text-align: left;
     display: flex;
     margin-left: auto;
@@ -188,7 +188,7 @@ h3 {
     width: 100%;
 }
 #tipsesc {
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("Tips.png");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.4)), url("Tips.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -206,7 +206,7 @@ ul{
     margin-left: auto;
     margin-right: auto;
     font-weight: bold;
-    width: 70%;
+    width: 90%;
 }
 
 
