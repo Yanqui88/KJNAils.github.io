@@ -66,7 +66,7 @@ a img{
     padding-bottom: 2.3em;
     margin-left: auto;
     margin-right: auto;
-    width: 15%;
+    width: 19%;
     height: auto;
     flex-direction: column;
 }
@@ -215,7 +215,7 @@ ul{
     background-image: url("Lista1.png");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.5em;
+    background-size: 2.8em;
     color: #fa93d3;
 }
 
@@ -226,7 +226,7 @@ ul{
     background-image: url("Lista2.png");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.6em;
+    background-size: 2.9em;
     color: black;
 }
 #Lista3 {
@@ -236,7 +236,7 @@ ul{
     background-image: url("Lista3.png");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.7em;
+    background-size: 3em;
     color: #fa93d3; 
 }
 #Lista4 {
@@ -246,7 +246,7 @@ ul{
     background-image: url("Lista4.webp");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 2.6em; 
+    background-size: 2.9em; 
     color: black;
 }
 #Lista5 {
@@ -256,7 +256,7 @@ ul{
     background-image: url("Lista5.png");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 1.9em;
+    background-size: 2.2em;
     background-position-x: -0.4em;
     color: #fa93d3;
 }
