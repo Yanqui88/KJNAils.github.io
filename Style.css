@@ -120,7 +120,7 @@ h3 {
 
 
 #semipermanentes {
-    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.6)), url("Semi2.png");
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.6)), url("Semi2.png");
     background-attachment: fixed;
     background-size:cover;
     background-position:center center;
@@ -134,7 +134,7 @@ h3 {
 
 
 #kapping {
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("Kapping.png");
+    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("Kapping.png");
     background-attachment: fixed;
     background-size: cover;
     background-position:center center;
@@ -148,7 +148,7 @@ h3 {
 }
 
 #nailart {
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("NailArt.png");
+    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("NailArt.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -162,7 +162,7 @@ h3 {
 }
 
 #esculpidas {
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("Esculpidas.png");
+    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("Esculpidas.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -176,7 +176,7 @@ h3 {
 }
 
 #softgel {
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)), url("SoftGel.png");
+    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.6)), url("SoftGel.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -188,7 +188,7 @@ h3 {
     width: 100%;
 }
 #tipsesc {
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.4)), url("Tips.png");
+    background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.4)), url("Tips.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
