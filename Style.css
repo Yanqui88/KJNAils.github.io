@@ -74,6 +74,10 @@ a img:hover {
     transform: scale(1.1);
     transition: 0.3s;
 }
+
+a {
+   overflow-y: hidden
+   }
 #insta {
     padding: 1em;
 }
